@@ -2,7 +2,7 @@ package Week_4;
 
 import java.util.Scanner;
 
-public class Lab_1 {
+public class Lab_9_15_25 {
     // Lab: Write a program that reads in 3 integers and prints the smallest number of the 3.
 
     public static void main(String[] args) {
